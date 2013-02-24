@@ -2,7 +2,7 @@
 
 ## Description
 Just a simple autoloader implementation that implements the technical interoperability standards for PHP 5.3 namespaces and class names ([PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)).
-So ClassLoader loads your project classes automatically if they follow some standard PHP conventions, with or without namespaces.
+So `ClassLoader` loads your project classes automatically if they follow some standard PHP conventions, with or without namespaces.
 Based on https://gist.github.com/221634.
 
 ## Requirements
